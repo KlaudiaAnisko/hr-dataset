@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../Human Resources Dataset.Dataset"
+    },
+    "byConnection": null
+  }
+}
